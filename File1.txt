@@ -8,4 +8,4 @@ bugfixed
 dhjd
 
 bug 2 - fixed
-hello teammated
+file updated for push ncheck on remote
