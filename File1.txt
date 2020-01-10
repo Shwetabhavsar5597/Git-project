@@ -1,10 +1,11 @@
 hello world!!
 
 welcome to Git..
-feature 1- login    
-feature 2-logout
+Feature 1- login    
+fEature 2-logout
 bugfixed
 
 dhjd
 
 bug 2 - fixed
+hello teammated
