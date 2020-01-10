@@ -10,4 +10,8 @@ dhjd
 bug 2 - fixed
 file updated for push ncheck on remote
 hello commit on remote
+
 hello update on remote
+
+hello conflict in local
+File1 is updated in local;
