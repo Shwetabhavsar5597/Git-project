@@ -1,8 +1,10 @@
 hello world!!
 
 welcome to Git..
-feature 1- login
+feature 1- login    
 feature 2-logout
 bugfixed
 
 dhjd
+
+bug 2 - fixed
